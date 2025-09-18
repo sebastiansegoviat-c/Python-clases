@@ -1,0 +1,5 @@
+pip install (nombre de la libreria)
+#Para instalar librerias desde la terminal
+
+pip freeze
+#----para ver todas las librerias instaladas en el espacio virtual desde la terminal
